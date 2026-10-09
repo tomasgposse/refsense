@@ -1,0 +1,5 @@
+# Screenshots and test runs
+refs/
+verify/
+*-workspace/
+node_modules/

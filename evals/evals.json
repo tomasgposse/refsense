@@ -1,0 +1,23 @@
+{
+  "skill_name": "refsense",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "diseñá una landing nueva para este instagram https://www.instagram.com/<brand>/ — no sé nada de diseño",
+      "expected_output": "Brief from what Instagram shows, a request for the brand's photos, 5-8 references with screenshots and measurements, patterns shared by 3+ references with a why each, a responsive index.html with real content and marked slots, a verification pass with screenshots, and PATRONES.md in Spanish.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Redesign the home screen of this Next.js app, it looks amateur. Make it feel like Linear or Raycast.",
+      "expected_output": "Uses Linear and Raycast as core references plus 2-3 more, works inside the existing stack and components, defines tokens before changing screens, and leaves PATTERNS.md in English.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Make a landing for a tire shop in Rosario, here's what they do: tires, alignment, balancing, open Mon-Sat. They have no website.",
+      "expected_output": "Says the category has few strong references and borrows from adjacent categories (premium workshops, bike shops), naming them and why; asks for photos or leaves marked photo slots instead of stock images; never invents reviews or prices.",
+      "files": []
+    }
+  ]
+}
